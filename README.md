@@ -9,7 +9,7 @@ This project extracts frames from videos using OpenCV.
 
 ## Installation
 ```bash
-pip install opencv-python
+pip install opencv-contrib-python
 ```
 
 ## Usage
